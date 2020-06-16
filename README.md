@@ -1,3 +1,20 @@
+# Tic-Tac-Toe 
+
+This app is a simple tic-tac-toe game where two players can play on the same screen against one another. Once the game ends (either through a draw or a win from either player), the game will prompt the palyers if they would like to play again. This app was created usinhg React hooks
+
+## Getting Started
+Clone or download this repo onto your local machine, once you have done this, install the node packages.
+You can do this by running **`npm i`** on your command line tool.
+
+## Running the App
+In order to start the app, run **`npm start`** through the command line tool, make sure you are in the root of the directory.
+
+## Stopping the App
+In order to stop the app, hit "control" and "c" at the same time in the terminal to close the server.
+
+## Built with
+- react
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
